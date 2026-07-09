@@ -1,2 +1,0 @@
-# jailbreaks
-jailbreaks for ais
